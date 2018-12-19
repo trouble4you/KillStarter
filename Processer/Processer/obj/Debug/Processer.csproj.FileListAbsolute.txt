@@ -1,0 +1,7 @@
+C:\Users\MARKOVSL\source\repos\Processer\Processer\bin\Debug\Processer.exe.config
+C:\Users\MARKOVSL\source\repos\Processer\Processer\bin\Debug\Processer.exe
+C:\Users\MARKOVSL\source\repos\Processer\Processer\bin\Debug\Processer.pdb
+C:\Users\MARKOVSL\source\repos\Processer\Processer\obj\Debug\Processer.csprojAssemblyReference.cache
+C:\Users\MARKOVSL\source\repos\Processer\Processer\obj\Debug\Processer.csproj.CoreCompileInputs.cache
+C:\Users\MARKOVSL\source\repos\Processer\Processer\obj\Debug\Processer.exe
+C:\Users\MARKOVSL\source\repos\Processer\Processer\obj\Debug\Processer.pdb
